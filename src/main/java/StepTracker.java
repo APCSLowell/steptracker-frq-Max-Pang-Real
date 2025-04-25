@@ -18,6 +18,6 @@ public class StepTracker
    return activeAmount;
  }
  public double averageSteps(){
-  return (double) totalSteps/totalDays;
+  return (double)totalSteps/totalDays;
  }
 } 
